@@ -22,3 +22,10 @@ h1{
     width: 10%;
     margin-top: 20%;
   }
+
+  @media (max-width:730px){
+    .center{
+        width: 30%;
+        margin-top: 70%;
+        }
+    }
